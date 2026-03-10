@@ -10,13 +10,7 @@ A seasoned full-stack Javascript Engineer, With years of experience across vario
 I am passionate about developing scalable, user-friendly, cross-platform hybrid mobile and web applications. With extensive experience across various platforms, I specialize in building impactful e-learning and e-commerce products. I focus on creating seamless digital experiences that work at scale for web and mobile users.
 
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adrshk&margin-w=15" alt="adrshk" />
-  </a>
-</p>
-
-<p align="left"> <a href="https://twitter.com/adrshk" target="blank"><img src="https://img.shields.io/twitter/follow/adrshk?logo=twitter&style=for-the-badge" alt="adrshk" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_adrshk" target="blank"><img src="https://img.shields.io/twitter/follow/adrshk?logo=twitter&style=for-the-badge" alt="adrshk" /></a> </p>
 
 - 🔭 I’m currently working on [Edistera](https://app.edistera.com/enter-workspace)
 
